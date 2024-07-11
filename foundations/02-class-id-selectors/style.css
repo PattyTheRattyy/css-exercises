@@ -1,5 +1,9 @@
 .odd {
     background-color: rgba(241, 159, 159, 0.9);
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
-    
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 32px;
 }
