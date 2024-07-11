@@ -6,4 +6,15 @@
 #two {
     color: rgb(0, 0, 255);
     font-size: 32px;
+
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    font-size: 24px;
+    background-color: rgba(121, 255, 121, 0.9);
+    font-weight: bold;
 }
